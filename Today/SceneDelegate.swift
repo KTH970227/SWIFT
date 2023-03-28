@@ -58,7 +58,6 @@ import UIKit
 //[57] 미리 알림 표시
 //[58] 변경 알림에 응답
 
-
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
